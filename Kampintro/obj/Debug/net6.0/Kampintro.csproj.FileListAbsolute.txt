@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Kampintro\Kampintro\bin\Debug\net6.0\Kampintro.exe
+C:\Users\User\source\repos\Kampintro\Kampintro\bin\Debug\net6.0\Kampintro.deps.json
+C:\Users\User\source\repos\Kampintro\Kampintro\bin\Debug\net6.0\Kampintro.runtimeconfig.json
+C:\Users\User\source\repos\Kampintro\Kampintro\bin\Debug\net6.0\Kampintro.dll
+C:\Users\User\source\repos\Kampintro\Kampintro\bin\Debug\net6.0\Kampintro.pdb
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.AssemblyInfo.cs
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.dll
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\refint\Kampintro.dll
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.pdb
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\Kampintro.genruntimeconfig.cache
+C:\Users\User\source\repos\Kampintro\Kampintro\obj\Debug\net6.0\ref\Kampintro.dll

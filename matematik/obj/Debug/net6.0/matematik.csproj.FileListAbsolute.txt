@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Kampintro\matematik\bin\Debug\net6.0\matematik.exe
+C:\Users\User\source\repos\Kampintro\matematik\bin\Debug\net6.0\matematik.deps.json
+C:\Users\User\source\repos\Kampintro\matematik\bin\Debug\net6.0\matematik.runtimeconfig.json
+C:\Users\User\source\repos\Kampintro\matematik\bin\Debug\net6.0\matematik.dll
+C:\Users\User\source\repos\Kampintro\matematik\bin\Debug\net6.0\matematik.pdb
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.AssemblyInfo.cs
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.dll
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\refint\matematik.dll
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.pdb
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\matematik.genruntimeconfig.cache
+C:\Users\User\source\repos\Kampintro\matematik\obj\Debug\net6.0\ref\matematik.dll
